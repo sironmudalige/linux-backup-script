@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_DIR="$HOME/devops-lab"
+SOURCE_DIR="$1"
 BACKUP_DIR="$HOME/backups"
 
 mkdir -p "$BACKUP_DIR"
