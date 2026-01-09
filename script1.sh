@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 SOURCE_DIR="$HOME/devops-lab"
 BACKUP_DIR="$HOME/backups"
